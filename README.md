@@ -1,4 +1,4 @@
-# ibm-hr-analytics-dashboard
+# ibm-hr-analytics
 HR analytics dashboard analyzing employee attrition, demographics, and workforce insights using Excel, SQL, Power BI, and Python.
 # 👥 IBM HR Analytics & Employee Attrition Dashboard
 
