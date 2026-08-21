@@ -113,7 +113,7 @@ IBM-HR-Analytics-Dashboard
 
 ## Dashboard Preview
 
-*(Add a screenshot of your Power BI dashboard after completing the project.)*
+
 
 ---
 
